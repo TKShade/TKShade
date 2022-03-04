@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Java](https://img.shields.io/badge/Learning-Java-623ce4?style=flat-square&logo=Java&logoColor=white)<!--taken from: https://raw.githubusercontent.com/br3ndonland/br3ndonland/main/README.md-->
+![Git](https://img.shields.io/badge/Learning-Git-66CDAA?style=flat-square&logo=Git&logoColor=white)
