@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Java](https://img.shields.io/badge/Learning-Java-623ce4?style=flat-square&logo=Java&logoColor=white)<!--taken from: https://raw.githubusercontent.com/br3ndonland/br3ndonland/main/README.md-->
-![Git](https://img.shields.io/badge/Learning-Git-66CDAA?style=flat-square&logo=Git&logoColor=white)
+Once upon a time, there was a man who thought that almost every subject was uber exciting and thus could not make up his mind. I'm currently working on my skills as a software developer... Skills I have very little of as of the moment of writing.
+I was enrolled at a university and have completed some courses but didn't feel like I learned anything. This is why I'm now
+DIY'ing my own software development education.
+
+It will begin on April first and run for 6 months. The plan will be a hybrid between courses from my former university and "The Open Source Computer Science Degree" from ForrestKnight(https://github.com/ForrestKnight/open-source-cs). 
+The first version of the plan will be posted here on April first and updated as I complete items or change items in it.
+
+<!--![Java](https://img.shields.io/badge/Learning-Java-623ce4?style=flat-square&logo=Java&logoColor=white)--><!--taken from: https://raw.githubusercontent.com/br3ndonland/br3ndonland/main/README.md-->
+<!--![Git](https://img.shields.io/badge/Learning-Git-66CDAA?style=flat-square&logo=Git&logoColor=white)-->
