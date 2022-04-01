@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I want to become a software engineer. I was enrolled at a university where I studied software development but didn't feel like I was learning enough. 
-That is why I'm now embarking on a self education journey.
+That is why I'm now embarking on a self education journey. In about six months, starting from April first, I plan on being able to apply for a junior software engineering job.
 
+### Tentative plan:
 
-It will begin on April first and run for 6 months. The plan will be a hybrid between courses from my former university and "The Open Source Computer Science Degree" from ForrestKnight (https://github.com/ForrestKnight/open-source-cs). 
-The first version of the plan will be posted here on April first and updated as I complete items or change items in it.
+- [ ] (Java) Build a cinema booking system to evaluate my java skills
+- [ ] Discrete Math
+- [ ] Algorithms and Data Structures
+- [ ] (Java) Build a map of Denmark with navigation, searching, and route planning
+- [ ] Object-Oriented analysis and design
+- [ ] Database
+- [ ] Operating Systems and C
 
 <!--![Java](https://img.shields.io/badge/Learning-Java-623ce4?style=flat-square&logo=Java&logoColor=white)--><!--taken from: https://raw.githubusercontent.com/br3ndonland/br3ndonland/main/README.md-->
 <!--![Git](https://img.shields.io/badge/Learning-Git-66CDAA?style=flat-square&logo=Git&logoColor=white)-->
