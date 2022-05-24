@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I want to become a software engineer. I was enrolled at a university where I studied software development but didn't feel like I was learning enough. 
-That is why I'm now embarking on a self education journey. In about six months, starting from April first, I plan on being able to apply for a junior software engineering job.
+That is why I'm now embarking on a self education journey. In about six months, starting from June, I plan on being able to apply for a junior software engineering job.
 
 ### Tentative plan:
 
